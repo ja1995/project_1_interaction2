@@ -1,0 +1,291 @@
+@media screen and (max-width: 1180px) and (min-width: 300px) {
+    body {
+        width: 100%;
+        margin: 0;
+    }
+    .photos{
+        width: 100%;
+        margin: 0;
+    }
+}
+
+body {
+    margin: 0;
+    width: 100%;
+}
+
+#contain {
+    margin: 0;
+}
+
+.photos {
+    width: 100%;
+    text-align: center;
+}
+
+img:hover {
+    opacity: .1;
+}
+
+p {
+    font-family: 'Quicksand', sans-serif;
+    font-weight: 600;
+    font-size: 14px;
+}
+
+
+/*------cover-----*/
+
+#page {
+    width: 100%;
+    background-color: yellow;
+    font-family: 'Quicksand', sans-serif;
+    font-size: 30px;
+    overflow: hidden;
+}
+
+#page h3 {
+    padding-left: 15px;
+    text-align: center;
+    bottom: 0;
+    font-weight: 600;
+    line-height: 1.2;
+    color: darkgreen;
+}
+
+#bubble img {
+    
+}
+
+
+/*------page 1-----*/
+
+#page1 {
+    width: 100%;
+    background-color: darkgreen;
+}
+
+#page1 p {
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 80;
+}
+
+#page1 .photos {
+    position:relative;
+}
+
+#text1 {
+    opacity: 0;
+}
+
+#firstPhotoClump:hover #text1 {
+    opacity: 1;
+}
+
+#firstPhotoClump:hover #idk {
+    opacity: .1;
+}--
+
+/*------page 5-----*/
+
+#page5 {
+    width: 100%;
+    background-color: dodgerblue;
+}
+#page5 p {
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 70;
+}
+#page5 .photos {
+    position:relative;
+}
+
+/*------page 6-----*/
+
+#page6 {
+    width: 100%;
+    background-color: darksalmon
+}
+#page6 p {
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 70;
+}
+#page6 .photos {
+    position:relative;
+}
+
+
+/*------page 7-----*/
+
+#page7 {
+    width: 100%;
+    background-color: darkorange
+}
+
+#page7 .photos {
+    position: relative;
+}
+#page7 p {
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 80;
+}
+/*------page 8-----*/
+
+#page8 {
+    width: 100%;
+    background-color: darkred;
+}
+
+#page8 .photos {
+    position: relative;
+}
+#page8 p {
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 70;
+}
+/*------page 9-----*/
+
+#page9 {
+    width: 100%;
+    background-color: skyblue;
+}
+
+#page9 .photos {
+    position: relative;
+}
+#page9 p {
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 80;
+}
+/*------page 10-----*/
+
+#page10 {
+    width: 100%;
+    background-color: greenyellow;
+}
+
+#page10 .photos {
+    position: relative;
+}
+#page10 p {
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 80;
+}
+/*------page 11-----*/
+
+#page11 {
+    width: 100%;
+    background-color: gold;
+}
+
+#page11 .photos {
+    position: relative;
+}
+#page11 p {
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 80;
+}
+/*------page 12-----*/
+
+#page12 {
+    width: 100%;
+    background-color: forestgreen;
+}
+
+#page12 .photos {
+    position: relative;
+}
+#page12 p {
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 60;
+}
+/*------page 13-----*/
+
+#page13 {
+    width: 100%;
+    background-color: pink;
+}
+
+#page13 .photos {
+    position: relative;
+}
+#page13 p {
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 60;
+}
+/*------page 14-----*/
+
+#page14 {
+    width: 100%;
+    background-color: grey;
+}
+
+#page14 .photos {
+    position: relative;
+}
+#page14 p {
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 70;
+}
+/*------page 15-----*/
+
+#page15 {
+    width: 100%;
+    background-color: sandybrown;
+}
+
+#page15 .photos {
+    position: relative;
+}
+#page15 p {
+    position: absolute;
+    margin: 0;
+    width: 100%;
+    height: 100%;
+    text-align: center;
+    padding-top: 70;
+}
